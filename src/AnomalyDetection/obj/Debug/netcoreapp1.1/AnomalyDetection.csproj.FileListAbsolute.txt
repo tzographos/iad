@@ -1,0 +1,9 @@
+D:\Code\Repositories\iad\src\AnomalyDetection.Build\Debug\netcoreapp1.1\AnomalyDetection.deps.json
+D:\Code\Repositories\iad\src\AnomalyDetection.Build\Debug\netcoreapp1.1\AnomalyDetection.runtimeconfig.json
+D:\Code\Repositories\iad\src\AnomalyDetection.Build\Debug\netcoreapp1.1\AnomalyDetection.runtimeconfig.dev.json
+D:\Code\Repositories\iad\src\AnomalyDetection.Build\Debug\netcoreapp1.1\AnomalyDetection.dll
+D:\Code\Repositories\iad\src\AnomalyDetection.Build\Debug\netcoreapp1.1\AnomalyDetection.pdb
+D:\Code\Repositories\iad\src\AnomalyDetection\obj\Debug\netcoreapp1.1\AnomalyDetection.csprojResolveAssemblyReference.cache
+D:\Code\Repositories\iad\src\AnomalyDetection\obj\Debug\netcoreapp1.1\AnomalyDetection.AssemblyInfo.cs
+D:\Code\Repositories\iad\src\AnomalyDetection\obj\Debug\netcoreapp1.1\AnomalyDetection.dll
+D:\Code\Repositories\iad\src\AnomalyDetection\obj\Debug\netcoreapp1.1\AnomalyDetection.pdb

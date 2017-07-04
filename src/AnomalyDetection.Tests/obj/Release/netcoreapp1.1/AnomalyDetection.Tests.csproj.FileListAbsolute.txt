@@ -1,0 +1,15 @@
+D:\Code\Repositories\iad\src\AnomalyDetection.Tests\bin\Release\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Code\Repositories\iad\src\AnomalyDetection.Tests\bin\Release\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+D:\Code\Repositories\iad\src\AnomalyDetection.Tests\bin\Release\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+D:\Code\Repositories\iad\src\AnomalyDetection.Tests\bin\Release\netcoreapp1.1\xunit.runner.json
+D:\Code\Repositories\iad\src\AnomalyDetection.Tests\bin\Release\netcoreapp1.1\AnomalyDetection.Tests.deps.json
+D:\Code\Repositories\iad\src\AnomalyDetection.Tests\bin\Release\netcoreapp1.1\AnomalyDetection.Tests.runtimeconfig.json
+D:\Code\Repositories\iad\src\AnomalyDetection.Tests\bin\Release\netcoreapp1.1\AnomalyDetection.Tests.runtimeconfig.dev.json
+D:\Code\Repositories\iad\src\AnomalyDetection.Tests\bin\Release\netcoreapp1.1\AnomalyDetection.Tests.dll
+D:\Code\Repositories\iad\src\AnomalyDetection.Tests\bin\Release\netcoreapp1.1\AnomalyDetection.Tests.pdb
+D:\Code\Repositories\iad\src\AnomalyDetection.Tests\bin\Release\netcoreapp1.1\AnomalyDetection.dll
+D:\Code\Repositories\iad\src\AnomalyDetection.Tests\bin\Release\netcoreapp1.1\AnomalyDetection.pdb
+D:\Code\Repositories\iad\src\AnomalyDetection.Tests\obj\Release\netcoreapp1.1\AnomalyDetection.Tests.csprojResolveAssemblyReference.cache
+D:\Code\Repositories\iad\src\AnomalyDetection.Tests\obj\Release\netcoreapp1.1\AnomalyDetection.Tests.AssemblyInfo.cs
+D:\Code\Repositories\iad\src\AnomalyDetection.Tests\obj\Release\netcoreapp1.1\AnomalyDetection.Tests.dll
+D:\Code\Repositories\iad\src\AnomalyDetection.Tests\obj\Release\netcoreapp1.1\AnomalyDetection.Tests.pdb
