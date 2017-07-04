@@ -1,6 +1,6 @@
 Insight Coding Challenge - Anomaly detection
 ===============
-
+---
 ### Purpose
 
 This software submission is made for the Insight Coding Challenge 2017 – Anomaly Detection. The software calculates when a purchase made by a user is “out the ordinary” for the standards of his social network purchasing habits. 
@@ -36,7 +36,7 @@ This software is --I assume-- different that most software submitted for this Ch
 The code is written in C# 6 using [Visual Studio Code](https://code.visualstudio.com/) (on Linux) and [Visual Studio](https://www.visualstudio.com/) (on Windows).
 The library used for JSON parsing and manipulation is the excellent [Json.NET](http://www.newtonsoft.com/json) from NewtonSoft.
 For the unit testing project, [x-Unit.NET](https://xunit.github.io/) was chosen.
->####Dependencies####
+>#### Dependencies
 >**The application requires .NET Core version 1.1.2 to be installed, in order to run. You can find detailed installation instructions for both Linux, Windows and Mac [here](https://www.microsoft.com/net/core#linuxubuntu). On all operating systems, administrative privileges are required for the installation.**
 
 
